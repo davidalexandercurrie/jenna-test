@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91d42943.css",
+    "main.js": "/static/js/main.1a008394.js",
+    "static/media/background.png": "/static/media/background.a0c7762e276067a9db60.png",
+    "static/media/pencil-animation.gif": "/static/media/pencil-animation.47e5ee1d8bbb0cf9a0ea.gif",
+    "static/media/sheep.png": "/static/media/sheep.f9d01863973f0ab47464.png",
+    "static/media/dog.png": "/static/media/dog.8e45a1dc454f6fbdb220.png",
+    "static/media/cat.png": "/static/media/cat.035cef2164f7b36c9830.png",
+    "static/media/bear.png": "/static/media/bear.d96b22fe573bc94a9a2e.png",
+    "static/media/duck.png": "/static/media/duck.6a749197c3db4f540ca5.png",
+    "static/media/canvasswap.png": "/static/media/canvasswap.647131aca2d3642a8419.png",
+    "static/media/drawtogether.png": "/static/media/drawtogether.b287fbc39c906d7eff78.png",
+    "static/media/topbottom.png": "/static/media/topbottom.863af9ef3d42abe7a0a5.png",
+    "static/media/clear.png": "/static/media/clear.13d7ea2b130e5bf56110.png",
+    "static/media/logo.png": "/static/media/logo.d3d81ada3ce274aadaa6.png",
+    "static/media/eraser.png": "/static/media/eraser.a22bdce40cf04c02efb4.png",
+    "static/media/pencil.png": "/static/media/pencil.08c91a07632441927381.png",
+    "static/media/eyedropper.png": "/static/media/eyedropper.f49aadd1e3355569b2ea.png",
+    "index.html": "/index.html",
+    "main.91d42943.css.map": "/static/css/main.91d42943.css.map",
+    "main.1a008394.js.map": "/static/js/main.1a008394.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91d42943.css",
+    "static/js/main.1a008394.js"
+  ]
+}
